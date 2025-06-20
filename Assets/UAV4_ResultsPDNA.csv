@@ -1,0 +1,11 @@
+Test number, Flight time / s, Final Distance to Source / m, Time to Best Maximum / s, Detected maxima, False Positives, Spiral Orbits Completed, Spiral Orbits per explore phase
+1, 120,16.08071,23.10204,6,6,6,6
+2, 120,6.007118,47.34092,3,3,4,2
+3, 120,3.566277,13.96372,3,3,6,6
+4, 120,14.88244,54.51291,3,3,3,1.5
+5, 120,13.73609,41.21836,3,3,5,5
+6, 120,15.02234,20.53403,4,4,6,6
+7, 120,NaN,0,0,0,0,NaN
+8, 120,16.86456,14.35529,2,2,6,6
+9, 120,1.628582,66.98152,7,7,2,1
+10, 120,8.246255,52.9196,3,3,3,1.5
